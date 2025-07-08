@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sivajothi152004@gmail.com**
 
-- 📄 Resume: 📄 View my resume [here (PDF)](https://drive.google.com/file/d/1-_aW7vmKcWpB6Z_V-aLu7pUWZv11Tkjg/view)
+- 📄 View my resume [here (PDF)](https://drive.google.com/file/d/1-_aW7vmKcWpB6Z_V-aLu7pUWZv11Tkjg/view)
   
 - ⚡ Fun fact **I love building tech that solves real-world problems**
 
