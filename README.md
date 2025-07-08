@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms & System Design**
 
-- 👨‍💻 All of my projects are available at [https://sivajothi.vercel.app/](https://sivajothi.vercel.app/)
-
+- 👨‍💻 Portfolio: 🔗 Check out all my projects at [sivajothi.vercel.app](https://sivajothi.vercel.app)
+  
 - 💬 Ask me about **Spring Boot, ReactJS, FastAPI, AWS**
 
 - 📫 How to reach me **sivajothi152004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-_aW7vmKcWpB6Z_V-aLu7pUWZv11Tkjg/view](https://drive.google.com/file/d/1-_aW7vmKcWpB6Z_V-aLu7pUWZv11Tkjg/view)
-
+- 📄 Resume: 📄 View my resume [here (PDF)](https://drive.google.com/file/d/1-_aW7vmKcWpB6Z_V-aLu7pUWZv11Tkjg/view)
+  
 - ⚡ Fun fact **I love building tech that solves real-world problems**
 
 <h3 align="left">Connect with me:</h3>
